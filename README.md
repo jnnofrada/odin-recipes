@@ -1,3 +1,3 @@
 # odin-recipes
-odin html project
+odin html project/n
 To show proficiency in HTML
